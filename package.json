@@ -1,5 +1,5 @@
 {
-  "name": "npm_yarn_test_package",
+  "name": "@adam.bjurstrom.hxgn/demo-test-package",
   "version": "0.0.1",
   "description": "A test package",
   "main": "index.js",
