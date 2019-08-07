@@ -1,0 +1,11 @@
+{
+  "name": "npm_yarn_test_package",
+  "version": "0.0.1",
+  "description": "A test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Bjurstrom",
+  "license": "ISC"
+}
