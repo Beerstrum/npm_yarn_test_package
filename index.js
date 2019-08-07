@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-  console.log('This is a message from the demo-test-package');
+  console.log('This is a message from the demo-test-package beta branch');
 };
