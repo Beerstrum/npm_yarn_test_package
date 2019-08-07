@@ -2,7 +2,7 @@
  * This is a test function that sends a message to the console.
  */
 exports.printMessage = function() {
-  console.log('This is a message from the demo-test-package version 2+');
+  console.log('This is a message from the demo-test-package version 2.0.0 or higher.');
 };
 
 /**
